@@ -1,6 +1,6 @@
 # Razer Synapse 2 Uninstaller for MacOS
 
-This script will completely remove (uninstall) the [Razer Synapse 2] [synapse] application from your MacOS system.
+This script will completely remove (uninstall) the [Razer Synapse 2] application from your MacOS system.
 
 # Features!
 
@@ -10,7 +10,7 @@ This script will completely remove (uninstall) the [Razer Synapse 2] [synapse] a
 
 ### Installation
 
-Download the [uninstall.sh] [dl] file
+Download the [uninstall.sh] file
 In terminal, navigate to the direectory you saved the file to.
 Set permissions on the file:
 ```sh
@@ -42,6 +42,6 @@ MIT
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-   [synapse]: <https://www.razerzone.com/au-en/synapse&usg=AOvVaw2iMpYqME2b-h35Lg0jU6uN>
-   [dl]: <https://raw.githubusercontent.com/dad2jrn/razer-synapse-uninstaller_MacOS/master/uninstall.sh>
+   [Razer Synapse 2]: <https://www.razerzone.com/au-en/synapse&usg=AOvVaw2iMpYqME2b-h35Lg0jU6uN>
+   [uninstall.sh]: <https://raw.githubusercontent.com/dad2jrn/razer-synapse-uninstaller_MacOS/master/uninstall.sh>
    
